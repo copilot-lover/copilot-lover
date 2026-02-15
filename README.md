@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @copilot-lover
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Some python
-- 💞️ I’m looking to collaborate on making fabric mods
+- 🌱 I’m currently taking cs50
 - 📫 How to reach me: Leave me a issue or comment or discussion and I will respond
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: **I love mcp!** JK-context windows do tho
